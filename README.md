@@ -1,5 +1,7 @@
 # NL2SQL 数据分析 Agent
 
+[![CI](https://github.com/DawnWH923/nl2sql-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/DawnWH923/nl2sql-agent/actions/workflows/ci.yml)
+
 用自然语言查询数据库：自动理解意图、澄清口径、生成 SQL、只读校验、执行并解读结果，全程带执行 trace 审计。基于 LangGraph + DeepSeek + sqlglot。
 
 ## 功能
