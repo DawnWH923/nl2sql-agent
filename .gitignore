@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 agent_out.txt
 .venv/
+out/
+eval_result.txt
+agent_out.txt
